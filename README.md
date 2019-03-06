@@ -32,4 +32,4 @@
 25. A Second Chance: The Story of a Near - Death Experience
 26. Quest for Enlightenment
 27. Transcendental Teachings of Prahlāda Mahārāja
-28. WIP Kṛṣṇa Consciousness The Topmost Yoga System
+28. DONE Kṛṣṇa Consciousness The Topmost Yoga System
