@@ -8,7 +8,7 @@
 1. DONE Nectar of Instruction
 2. KṚṢṆA, The Supreme Personality of Godhead
 3. Dharma: The Way of Transcendence
-4. Life Comes from Life
+4. DONE Life Comes from Life
 5. DONE On the Way to Kṛṣṇa
 6. Teachings of Lord Caitanya
 7. Teachings of Queen Kuntī
@@ -20,7 +20,7 @@
 13. DONE Civilization and Transcendence
 14. DONE Easy Journey to Other Planets
 15. DONE Elevation to Kṛṣṇa Consciousness
-16. Śrī Īśopaniṣad
+16. DONE Śrī Īśopaniṣad
 17. DONE Journey of Self-Discovery
 18. Laws of Nature: An Infallible Justice
 19. DONE Message of Godhead
@@ -32,4 +32,4 @@
 25. A Second Chance: The Story of a Near - Death Experience
 26. Quest for Enlightenment
 27. Transcendental Teachings of Prahlāda Mahārāja
-28. Kṛṣṇa Consciousness The Topmost Yoga System
+28. WIP Kṛṣṇa Consciousness The Topmost Yoga System
