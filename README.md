@@ -31,5 +31,5 @@
 24. DONE Rāja-Vidyā: The King of Knowledge
 25. A Second Chance: The Story of a Near - Death Experience
 26. Quest for Enlightenment
-27. Transcendental Teachings of Prahlāda Mahārāja
+27. DONE Transcendental Teachings of Prahlāda Mahārāja
 28. DONE Kṛṣṇa Consciousness The Topmost Yoga System
