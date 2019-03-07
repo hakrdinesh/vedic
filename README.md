@@ -30,7 +30,7 @@
 23. TODO COMPILATION Renunciation Through Wisdom
 24. DONE ACBSP       Rāja-Vidyā: The King of Knowledge
 25. TODO COMPILATION A Second Chance: The Story of a Near - Death Experience
-26. TODO COMPILATION Quest for Enlightenment
+26. TODO COMPILATION Quest for Enlightenment http://vanimedia.org/w/images/f/f4/1997-The_Quest_for_Enlightenment.pdf
 27. DONE ???         Transcendental Teachings of Prahlāda Mahārāja
 28. DONE ACBSP       Kṛṣṇa Consciousness The Topmost Yoga System
 
