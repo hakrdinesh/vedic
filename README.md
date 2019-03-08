@@ -33,7 +33,7 @@
 26. TODO COMPILATION Quest for Enlightenment http://vanimedia.org/w/images/f/f4/1997-The_Quest_for_Enlightenment.pdf
 27. DONE ???         Transcendental Teachings of Prahlāda Mahārāja
 28. DONE ACBSP       Kṛṣṇa Consciousness The Topmost Yoga System
-
+29. DONE ACBSP       Kṛṣṇa The Reservoir of Pleasure
 29. DONE ACBSP       Kṛṣṇa Consciousness: The Matchless Gift
 30. FIND COMPILATION Search for Liberation
 31. DONE COMPILATION Spiritual Yoga
