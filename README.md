@@ -1,7 +1,7 @@
 # vedic
 1. DONE ACBSP        Science of Self Realization
-2. ACBSP             Bhagavad-gītā As It Is
-3. ACBSP             Nectar of Devotion, Bhakti-rasāmṛta-sindhu
+2. DONE ACBSP        Bhagavad-gītā As It Is
+3. DONE ACBSP        Nectar of Devotion, Bhakti-rasāmṛta-sindhu
 3. ACBSP             Śrīmad-Bhāgavatam (Bhāgavata Purāṇa)
 4. ACBSP             Śrī Caitanya-caritāmṛta
 
@@ -10,9 +10,9 @@
 3. TODO COMPILATION  Dharma: The Way of Transcendence
 4. DONE ACBSP        Life Comes from Life
 5. DONE ACBSP        On the Way to Kṛṣṇa
-6. TODO ACBSP        Teachings of Lord Caitanya
+6. DONE ACBSP        Teachings of Lord Caitanya
 7. TODO ACBSP        Teachings of Queen Kuntī
-8. TODO ACBSP        Teachings of Lord Kapila
+8. DONE ACBSP        Teachings of Lord Kapila
 9. Śrī Brahma-saṁhitā
 10. DONE ACBSP       Light of the Bhāgavata
 11. DONE ACBSP       Beyond Birth and Death
